@@ -1,2 +1,2 @@
 # DeliveryShop
-Program that simulates what happen in a delivery shop software, this runs in the terminal.
+Program made in C, runs on the terminal, with the objetive to manage all the process of buying, ordering and delivering products of a computer store.
